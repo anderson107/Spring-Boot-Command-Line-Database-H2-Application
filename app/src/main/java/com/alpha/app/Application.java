@@ -61,6 +61,7 @@ public final class Application {
 		}
 	}
 	
+	// closes Buffered reader and spring context
 	private void close() {
 		
 		try {
